@@ -36,7 +36,7 @@ This project finds applications in various scenarios, including:
 1. Clone this repository to your local machine.
 2. Open the Arduino IDE.
 3. Connect your Arduino board to your computer.
-4. Open the `pressure_sensor_code.ino` file from the repository in the Arduino IDE.
+4. Open the `script4.ino` file from the repository in the Arduino IDE.
 5. Upload the code to your Arduino board.
 
 ### Usage
