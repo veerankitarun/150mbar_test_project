@@ -1,5 +1,6 @@
 #include <Wire.h>
 #define SENSOR_ADDRESS 0x30
+#include <arduino.h>
 
 void setup() {
   Wire.begin(); // Initialize I2C communication
