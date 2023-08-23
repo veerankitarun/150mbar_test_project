@@ -14,7 +14,7 @@ This project focuses on interfacing with a differential pressure sensor that com
 
 - Read differential pressure and temperature data from the sensor.
 - Utilize I²C communication protocol for sensor interaction.
-- Calculate and display pressure in Pressure in mbar and temperature in Celsius (°C).
+- Calculate and display Pressure in mbar and temperature in Celsius (°C).
 
 ## Applications
 
