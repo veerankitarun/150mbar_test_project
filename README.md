@@ -51,9 +51,6 @@ This project finds applications in various scenarios, including:
 - If you encounter issues with I²C communication, double-check your wiring and connections.
 - Ensure that the sensor is properly powered and connected to the correct pins on the Arduino.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
