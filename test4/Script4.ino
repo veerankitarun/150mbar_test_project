@@ -53,9 +53,9 @@ void loop() {
   // Convert hectopascals to millibars
   float millibars = ((pres_f - 1637) / 13107) * 7000;
 
-  Serial.print("Pressure (hPa): ");
-  Serial.print(pres_f);
-  Serial.println(" hPa");
+  // Serial.print("Pressure (hPa): ");
+  // Serial.print(pres_f);
+  // Serial.println(" hPa");
   
   Serial.print("Pressure (mb): ");
   Serial.print(millibars);
